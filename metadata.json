@@ -1,0 +1,5 @@
+{
+  "name": "Garatu Sarrerak",
+  "description": "Basque Country concert ticketing platform with Firebase integration and Gemini-powered venue search.",
+  "requestFramePermissions": []
+}
